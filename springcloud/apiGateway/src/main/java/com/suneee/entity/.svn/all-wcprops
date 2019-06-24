@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/entity
+END
+ZuulRouteVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/entity/ZuulRouteVO.java
+END
+AlgorithmCompany.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/entity/AlgorithmCompany.java
+END
+SecretKeyInfoExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/entity/SecretKeyInfoExample.java
+END
+SecretKeyInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/entity/SecretKeyInfo.java
+END
+AlgorithmCompanyExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/entity/AlgorithmCompanyExample.java
+END
+AlgorithmPathExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/entity/AlgorithmPathExample.java
+END
+GatewayRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/entity/GatewayRoute.java
+END
+GatewayRouteExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/entity/GatewayRouteExample.java
+END
+AlgorithmPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/entity/AlgorithmPath.java
+END

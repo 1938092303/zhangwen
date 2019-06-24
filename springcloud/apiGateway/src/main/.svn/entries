@@ -1,0 +1,34 @@
+10
+
+dir
+1884
+http://172.16.40.71:8800/svn/OFL_DEV_SVN/branch/IOTF/apiGateway/src/main
+http://172.16.40.71:8800/svn/OFL_DEV_SVN
+
+
+
+2018-07-27T01:15:48.352197Z
+1319
+zhangwen
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2a15a56f-738b-4520-a994-eb094cf5eb60
+
+java
+dir
+
+resources
+dir
+

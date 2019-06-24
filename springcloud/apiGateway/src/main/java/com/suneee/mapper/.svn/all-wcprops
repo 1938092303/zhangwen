@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/mapper
+END
+AlgorithmCompanyMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/mapper/AlgorithmCompanyMapper.java
+END
+SecretKeyInfoMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/mapper/SecretKeyInfoMapper.java
+END
+SecretKeyInfoMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/mapper/SecretKeyInfoMapper.xml
+END
+AlgorithmCompanyMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/mapper/AlgorithmCompanyMapper.xml
+END
+GatewayRouteMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/mapper/GatewayRouteMapper.java
+END
+AlgorithmPathMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/mapper/AlgorithmPathMapper.java
+END
+AlgorithmPathMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/mapper/AlgorithmPathMapper.xml
+END
+GatewayRouteMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/mapper/GatewayRouteMapper.xml
+END

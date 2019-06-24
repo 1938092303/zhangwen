@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/OFL_DEV_SVN/!svn/ver/1323/branch/IOTF/eurekaClient
+END
+mvnw
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/OFL_DEV_SVN/!svn/ver/1219/branch/IOTF/eurekaClient/mvnw
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/OFL_DEV_SVN/!svn/ver/1219/branch/IOTF/eurekaClient/.gitignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/OFL_DEV_SVN/!svn/ver/1323/branch/IOTF/eurekaClient/pom.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/OFL_DEV_SVN/!svn/ver/1219/branch/IOTF/eurekaClient/.project
+END
+mvnw.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/OFL_DEV_SVN/!svn/ver/1219/branch/IOTF/eurekaClient/mvnw.cmd
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/OFL_DEV_SVN/!svn/ver/1219/branch/IOTF/eurekaClient/.classpath
+END

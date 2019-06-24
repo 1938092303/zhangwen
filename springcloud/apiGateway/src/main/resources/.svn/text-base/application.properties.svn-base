@@ -1,0 +1,21 @@
+server.port=888
+spring.application.name=api-gateway
+eureka.instance.lease-renewal-interval-in-seconds=20
+eureka.instance.lease-expiration-duration-in-seconds=60
+zuul.host.connect-timeout-millis=3000
+zuul.host.socket-timeout-millis=6000
+eureka.client.serviceUrl.defaultZone=http://zhangwen:523313@localhost:666/eureka/
+###############################################  log  ##################################################  
+logging.level.com.suneee.mapper=DEBUG
+logging.file=logs/spring-boot-logging.log  
+logging.pattern.console=%d{yyyy/MM/dd-HH:mm:ss} [%thread] %-5level %logger- %msg%n  
+logging.pattern.file=%d{yyyy/MM/dd-HH:mm} [%thread] %-5level %logger- %msg%n 
+
+##
+spring.datasource.url=jdbc:mysql://172.16.35.95:3306/iot_frame?useUnicode=true&characterEncoding=utf-8&autoReconnect=true&failOverReadOnly=false&allowMultiQueries=true
+spring.datasource.username=root
+spring.datasource.password=123456
+spring.datasource.driver-class-name=com.mysql.jdbc.Driver
+##
+mybatis.config-location=classpath:mybatis-config.xml
+mybatis.mapper-locations=classpath:com/suneee/mapper/*.xml

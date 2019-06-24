@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/service
+END
+GatewayRouteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/service/GatewayRouteService.java
+END
+SecretKeyInfoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/service/SecretKeyInfoService.java
+END
+AlgorithmCompanyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/service/AlgorithmCompanyService.java
+END
+AlgorithmPathService.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/OFL_DEV_SVN/!svn/ver/888/branch/IOTF/apiGateway/src/main/java/com/suneee/service/AlgorithmPathService.java
+END
